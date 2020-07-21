@@ -3,7 +3,7 @@
 namespace App\Models;
 
 use PDO;
-use App\Utils\Database;
+use App\Database;
 
 
 abstract class CoreModel
