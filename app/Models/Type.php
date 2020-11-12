@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use App\Utils\Database;
+use App\Database;
 use PDO;
 
 class Type extends CoreModel
